@@ -50,4 +50,4 @@
 </ul>
 </p>
 <h3 align="left">Статистика репозитория</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomFuzis&hide=jupyter notebook&langs_count=10&layout=compact&theme=vision-friendly-dark)" alt="ArtyomFuzis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomFuzis&hide=jupyter+notebook&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="ArtyomFuzis" /></p>
